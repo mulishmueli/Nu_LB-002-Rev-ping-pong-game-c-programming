@@ -1,0 +1,17 @@
+.\obj\smpl_lcd_pingpong.o: Smpl_LCD_PingPong.c
+.\obj\smpl_lcd_pingpong.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\smpl_lcd_pingpong.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\smpl_lcd_pingpong.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\smpl_lcd_pingpong.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\smpl_lcd_pingpong.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\smpl_lcd_pingpong.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\smpl_lcd_pingpong.o: ..\..\..\Include\System\SysInfra.h
+.\obj\smpl_lcd_pingpong.o: ..\..\..\Include\System\ModuleID.h
+.\obj\smpl_lcd_pingpong.o: ..\..\..\Include\Driver\DrvSYS.h
+.\obj\smpl_lcd_pingpong.o: ..\..\..\Include\Driver\DrvGPIO.h
+.\obj\smpl_lcd_pingpong.o: ..\..\..\Include\NUC1xx-LB_002\LCD_Driver.h
+.\obj\smpl_lcd_pingpong.o: 2D_Graphic_Driver.h
+.\obj\smpl_lcd_pingpong.o: ..\..\..\Include\Driver\DrvADC.h
+.\obj\smpl_lcd_pingpong.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\smpl_lcd_pingpong.o: ..\..\..\Include\NUC1xx-LB_002\scankey.h
+.\obj\smpl_lcd_pingpong.o: ..\..\..\Include\NUC1xx-LB_002\Seven_Segment.h
